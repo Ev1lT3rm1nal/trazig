@@ -1,0 +1,13 @@
+.{
+    .name = "trazig",
+    .version = "0.0.1",
+    .dependencies = .{
+        .tracy = .{
+            .url = "https://github.com/wolfpld/tracy/archive/30f1b901a9bab40a193c97c77ec82ac70805164d.tar.gz",
+            .hash = "1220c34f09f0de6863185dc969d85a285e5b975acc6675439b7af8ecfd29f9c45a0c",
+        },
+    },
+    .paths = .{
+        "",
+    },
+}
